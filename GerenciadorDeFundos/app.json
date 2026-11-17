@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "BeRich",
+    "slug": "BeRich",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "myapp",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {}
+  }
+}
